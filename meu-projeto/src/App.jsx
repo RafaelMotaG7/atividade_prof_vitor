@@ -8,10 +8,10 @@ alignItems: 'center',
 height: '100vh'
 }}>
 <ElectricBorder
-color="#5227FF"
-speed={1}
+color="#e61515"
+speed={2}
 chaos={0.5}
-borderRadius={16}
+borderRadius={220}
 >
 <div style={{ padding: '40px', fontSize: '24px', color: 'white' }}>
 Efeito Electric Border
